@@ -1,0 +1,5 @@
+cocos2d
+pyaudio
+pyglet
+pygame
+PyQt5

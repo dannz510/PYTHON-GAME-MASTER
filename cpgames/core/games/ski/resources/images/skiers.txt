@@ -1,0 +1,154 @@
+skiers_map.png
+
+FIRST_ROW
+horizontal_skateboard1 img: position: 1x39px | size: 65x23px
+left2_skateboard1 img: position: 71x12px | size: 58x55px
+left1_skatboard1 img: position: 142x6px | size: 46x60px
+vertical_skateboard1 img: position: 204x3px | size: 38x64px
+right1_skateboard1 img: position: 258x8px | size: 49x59px
+right2_skateboard1 img: position: 314x11px | size: 61x57px
+cross_skateboard1 img: position: 383x6px | size: 57x36px
+skateboard_fire1 img: position: 517x-14px | size: 50x78px
+skateboard_fire2 img: position: 570x1px | size: 72x64px
+
+SECOND_ROW
+horizontal_skateboard2 img: position: 0x104px | size: 66x25px
+left2_skateboard2 img: position: 73x74px | size: 53x56px
+left1_skatboard2 img: position: 147x70px | size: 39x60px
+vertical_skateboard2 img: position: 215x67px | size: 18x63px
+right1_skateboard2 img: position: 261x69px | size: 41x60px
+right2_skateboard2 img: position: 315x73px | size: 59x58px
+cross_skateboard2 img: position: 387x70px | size: 52x36px
+skateboard_fire3 img: position: 519x68px | size: 47x59px
+skateboard_fire4 img: position: 576x69px | size: 68x60px
+
+THIRD_ROW
+horizontal_skateboard3 img: position: -26x167px | size: 92x25px
+left2_skateboard3 img: position: 73x138px | size: 55x57px
+left1_skatboard3 img: position: 145x135px | size: 46x60px
+vertical_skateboard3 img: position: 215x131px | size: 20x63px
+right1_skateboard3 img: position: 261x136px | size: 41x60px
+right2_skateboard3 img: position: 322x140px | size: 53x54px
+cross_skateboard3 img: position: 386x135px | size: 53x35px
+skateboard_fire5 img: position: 518x130px | size: 50x62px
+skateboard_fire6 img: position: 578x131px | size: 67x62px
+
+FOURTH_ROW
+dog1 img: position: 43x219px | size: 22x24px
+dog2 img: position: 72x231px | size: 20x20px
+dog3 img: position: 142x230px | size: 20x20px
+dog4 img: position: 218x232px | size: 13x19px
+dog5 img: position: 285x231px | size: 21x20px
+dog6 img: position: 356x231px | size: 20x20px
+dog7 img: position: 422x228px | size: 22x19px
+dog8 img: position: 470x198px | size: 22x19px
+dog9 img: position: 512x195px | size: 21x26px
+dog10 img: position: 614x196px | size: 23x24px
+
+FIFTH_ROW
+player1_style1 img: position: 5x254px | size: 44x63px
+player1_style2 img: position: 79x258px | size: 40x48px
+player1_style3 img: position: 144x257px | size: 35x50px
+player1_style4 img: position: 211x256px | size: 26x50px
+player1_style5 img: position: 268x256px | size: 36x49px
+player1_style6 img: position: 329x256px | size: 39x50px
+player1_style7 img: position: 387x261px | size: 59x58px
+player1_style8 img: position: 452x270px | size: 45x39px
+player1_style9 img: position: 518x258px | size: 51x47px
+player1_style10 img: position: 581x259px | size: 47x45px
+
+SIXTH_ROW
+player2_style1 img: position: 11x318px | size: 42x61px
+player2_style2 img: position: 76x318px | size: 42x61px
+player2_style3 img: position: 141x318px | size: 42x61px
+player2_style4 img: position: 204x318px | size: 42x61px
+player2_style5 img: position: 266x318px | size: 42x61px
+player2_style6 img: position: 331x318px | size: 42x61px
+player2_style7 img: position: 387x318px | size: 55x61px
+player2_style8 img: position: 449x318px | size: 48x61px
+player2_style9 img: position: 518x318px | size: 48x61px
+player2_style10 img: position: 580x318px | size: 48x61px
+
+SEVENTH_ROW
+player3_style1 img: position: 6x382px | size: 42x61px
+player3_style2 img: position: 70x382px | size: 42x61px
+player3_style3 img: position: 135x382px | size: 42x61px
+player3_style4 img: position: 198x382px | size: 42x61px
+player3_style5 img: position: 262x382px | size: 42x61px
+player3_style6 img: position: 326x382px | size: 42x61px
+player3_style7 img: position: 387x382px | size: 52x58px
+player3_style8 img: position: 451x380px | size: 48x61px
+player3_style9 img: position: 518x380px | size: 48x61px
+player3_style10 img: position: 580x380px | size: 48x61px
+
+EIGHT_ROW
+player4_style1 img: position: 6x447px | size: 42x61px
+player4_style2 img: position: 70x447px | size: 42x61px
+player4_style3 img: position: 135x447px | size: 42x61px
+player4_style4 img: position: 198x447px | size: 42x61px
+player4_style5 img: position: 262x447px | size: 42x61px
+player4_style6 img: position: 326x447px | size: 42x61px
+player4_style7 img: position: 388x447px | size: 52x58px
+player4_style8 img: position: 451x447px | size: 48x61px
+player4_style9 img: position: 518x447px | size: 48x61px
+player4_style10 img: position: 580x447px | size: 48x61px
+
+NINETH_ROW
+player5_style1 img: position: 9x513px | size: 42x61px
+player5_style2 img: position: 70x513px | size: 42x61px
+player5_style3 img: position: 135x513px | size: 42x61px
+player5_style4 img: position: 198x513px | size: 42x61px
+player5_style5 img: position: 262x513px | size: 42x61px
+player5_style6 img: position: 326x513px | size: 42x61px
+player5_style7 img: position: 388x513px | size: 52x58px
+player5_style8 img: position: 451x513px | size: 48x61px
+player5_style9 img: position: 518x513px | size: 48x61px
+player5_style10 img: position: 580x513px | size: 48x61px
+
+TENTH_ROW
+player6_style1 img: position: 9x576px | size: 42x61px
+player6_style2 img: position: 70x576px | size: 42x61px
+player6_style3 img: position: 135x576px | size: 42x61px
+player6_style4 img: position: 198x576px | size: 42x61px
+player6_style5 img: position: 262x576px | size: 42x61px
+player6_style6 img: position: 326x576px | size: 42x61px
+player6_style7 img: position: 388x576px | size: 52x58px
+player6_style8 img: position: 451x576px | size: 48x61px
+player6_style9 img: position: 518x576px | size: 48x61px
+player6_style10 img: position: 580x576px | size: 48x61px
+
+ELEVENTH_ROW
+player7_style1 img: position: 9x640px | size: 42x61px
+player7_style2 img: position: 70x640px | size: 42x61px
+player7_style3 img: position: 135x640px | size: 42x61px
+player7_style4 img: position: 198x640px | size: 42x61px
+player7_style5 img: position: 262x640px | size: 42x61px
+player7_style6 img: position: 326x640px | size: 42x61px
+player7_style7 img: position: 388x640px | size: 52x58px
+player7_style8 img: position: 451x640px | size: 48x61px
+player7_style9 img: position: 518x640px | size: 48x61px
+player7_style10 img: position: 580x640px | size: 48x61px
+
+TWELVETH_ROW
+player7_style1 img: position: 9x703px | size: 42x61px
+player7_style2 img: position: 70x703px | size: 42x61px
+player7_style3 img: position: 135x703px | size: 42x61px
+player7_style4 img: position: 198x703px | size: 42x61px
+player7_style5 img: position: 262x703px | size: 42x61px
+player7_style6 img: position: 326x703px | size: 42x61px
+player7_style7 img: position: 388x703px | size: 52x58px
+player7_style8 img: position: 451x703px | size: 48x61px
+player7_style9 img: position: 518x703px | size: 48x61px
+player7_style10 img: position: 580x703px | size: 48x61px
+
+THIRDTEENTH_ROW
+player8_style1 img: position: 9x766px | size: 42x61px
+player8_style2 img: position: 70x766px | size: 42x61px
+player8_style3 img: position: 135x766px | size: 42x61px
+player8_style4 img: position: 198x766px | size: 42x61px
+player8_style5 img: position: 262x766px | size: 42x61px
+player8_style6 img: position: 326x766px | size: 42x61px
+player8_style7 img: position: 388x766px | size: 52x58px
+player8_style8 img: position: 451x766px | size: 48x61px
+player8_style9 img: position: 518x766px | size: 48x61px
+player8_style10 img: position: 580x766px | size: 48x61px
