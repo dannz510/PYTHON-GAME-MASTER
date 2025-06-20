@@ -102,7 +102,7 @@ game_client.execute(random.choice(list(all_supports.values())))
 ![img](./docs/screenshot.gif)
 
 
-# Projects in Charles_pikachu
+# Projects in Dannz
 - [Games](https://github.com/CharlesPikachu/Games): Create interesting games in pure python.
 - [DecryptLogin](https://github.com/CharlesPikachu/DecryptLogin): APIs for loginning some websites by using requests.
 - [Musicdl](https://github.com/CharlesPikachu/musicdl): A lightweight music downloader written in pure python.
