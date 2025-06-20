@@ -1,39 +1,39 @@
-# 项目推荐
+# Project Recommendation
 
-- [制作小游戏](https://github.com/CharlesPikachu/Games)
+- [Make Mini Games](https://github.com/CharlesPikachu/Games)
 
-- [模拟登录系列](https://github.com/CharlesPikachu/DecryptLogin)
+- [Simulated Login Series](https://github.com/CharlesPikachu/DecryptLogin)
 
-- [音乐下载器](https://github.com/CharlesPikachu/musicdl)
+- [Music Downloader](https://github.com/CharlesPikachu/musicdl)
 
-- [视频下载器](https://github.com/CharlesPikachu/videodl)
+- [Video Downloader](https://github.com/CharlesPikachu/videodl)
 
-- [实用工具](https://github.com/CharlesPikachu/pytools)
+- [Practical Tools](https://github.com/CharlesPikachu/pytools)
 
-- [玩转微信](https://github.com/CharlesPikachu/pikachuwechat)
+- [Play with WeChat](https://github.com/CharlesPikachu/pikachuwechat)
 
-- [图像语义分割框架](https://github.com/SegmentationBLWX/sssegmentation)
+- [Image Semantic Segmentation Framework](https://github.com/SegmentationBLWX/sssegmentation)
 
-- [美化图片或视频](https://github.com/CharlesPikachu/pydrawing)
+- [Beautify Pictures or Videos](https://github.com/CharlesPikachu/pydrawing)
 
-- [图像压缩算法](https://github.com/CharlesPikachu/imagecompressor)
+- [Image Compression Algorithm](https://github.com/CharlesPikachu/imagecompressor)
 
-- [免费代理工具](https://github.com/CharlesPikachu/freeproxy)
+- [Free proxy tool](https://github.com/CharlesPikachu/freeproxy)
 
-- [美丽的星空图](https://github.com/CharlesPikachu/constellation)
+- [Beautiful starry sky map](https://github.com/CharlesPikachu/constellation)
 
-- [论文下载器](https://github.com/CharlesPikachu/paperdl)
+- [Paper downloader](https://github.com/CharlesPikachu/paperdl)
 
-- [终端看中华人民共和国国务院新闻办公室](https://github.com/CharlesPikachu/sciogovterminal)
+- [Terminal to see the Information Office of the State Council of the People's Republic of China](https://github.com/CharlesPikachu/sciogovterminal)
 
-- [代码自由](https://github.com/CharlesPikachu/codefree)
+- [Code freedom](https://github.com/CharlesPikachu/codefree)
 
-- [深度学习小案例](https://github.com/CharlesPikachu/deeplearningtoys)
+- [Deep learning small case](https://github.com/CharlesPikachu/deeplearningtoys)
 
-- [数据分析相关的小项目](https://github.com/CharlesPikachu/dataanalysis)
+- [Small projects related to data analysis](https://github.com/CharlesPikachu/dataanalysis)
 
-- [图片下载器](https://github.com/CharlesPikachu/imagedl)
+- [Image downloader](https://github.com/CharlesPikachu/imagedl)
 
-- [从零开始实现一个深度学习框架](https://github.com/CharlesPikachu/pytoydl)
+- [Implement a deep learning framework from scratch](https://github.com/CharlesPikachu/pytoydl)
 
-- [小说下载器](https://github.com/CharlesPikachu/noveldl)
+- [Novel Downloader](https://github.com/CharlesPikachu/noveldl)

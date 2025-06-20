@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - name: "Zhenchao Jin"
+  - name: "Dannz"
 title: "Games: Create interesting games by pure python"
 date-released: 2018-06-13
-url: "https://github.com/CharlesPikachu/Games"
+url: "https://github.com/dannz510/PYTHON-GAME-MASTER"
 license: Apache-2.0

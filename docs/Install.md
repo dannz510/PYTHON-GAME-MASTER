@@ -1,56 +1,52 @@
-# 安装CPGames
+# Install CPGames
 
+#### Environment configuration
 
-#### 环境配置
+- Operating system: Linux or macOS or Windows
+- Python version: Python3.6+
 
-- 操作系统: Linux or macOS or Windows
-- Python版本: Python3.6+
+#### Whl file installation (recommended)
 
-
-#### Whl文件安装(推荐)
-
-在终端运行如下命令即可(请保证python在环境变量中):
+Run the following command in the terminal (please ensure that python is in the environment variable):
 
 ```sh
 wget https://github.com/CharlesPikachu/Games/releases/download/v0.1.2/cpgames-0.1.2-py3-none-any.whl
 pip install cpgames-0.1.2-py3-none-any.whl
 ```
 
+#### PIP installation (recommended)
 
-#### PIP安装(推荐)
-
-在终端运行如下命令即可(请保证python在环境变量中):
+Run the following command in the terminal (please ensure that python is in the environment variable):
 
 ```sh
 pip install cpgames --upgrade
 ```
 
+#### Source code installation
 
-#### 源代码安装
+**1. Online installation**
 
-**1.在线安装**
-
-运行如下命令即可在线安装:
-
-```sh
-pip install git+https://github.com/CharlesPikachu/Games.git@master
-```
-
-**2.离线安装**
-
-利用如下命令下载Games源代码到本地:
+Run the following command to install online:
 
 ```sh
-git clone https://github.com/CharlesPikachu/Games.git
+pip install git+https://github.com/dannz510/PYTHON-GAME-MASTER.git@master
 ```
 
-接着, 切到Games目录下:
+**2. Offline installation**
+
+Use the following command to download the Games source code to your local computer:
+
+```sh
+git clone https://github.com/Dannz510/PYTHON-GAME-MASTER.git
+```
+
+Next, go to the Games directory:
 
 ```sh
 cd Games
 ```
 
-最后运行如下命令进行安装:
+Finally, run the following command to install:
 
 ```sh
 python setup.py install

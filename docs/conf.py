@@ -18,9 +18,9 @@
 # -- Project information -----------------------------------------------------
 
 project = 'cpgames'
-copyright = '2022, Zhenchao Jin'
-author = 'Zhenchao Jin'
-release = '0.1.0'
+copyright = '2025, Dannz'
+author = 'Dannz'
+release = '0.1.3'
 
 # -- General configuration ---------------------------------------------------
 

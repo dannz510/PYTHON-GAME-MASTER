@@ -1,16 +1,21 @@
-# 开发日志
+# Development log
 
 #### 2022-01-08
 
-- 版本号: v0.1.0, 
-- 更新内容: 集成了27款小游戏。
+- Version number: v0.1.0,
+- Update content: 27 mini games are integrated.
 
 #### 2022-03-21
 
-- 版本号: v0.1.1, 
-- 更新内容: 集成了半成品魔塔小游戏, 修复了Linux下运行存在的字体导入BUG。
+- Version number: v0.1.1,
+- Update content: The semi-finished magic tower mini game is integrated, and the font import bug under Linux is fixed.
 
 #### 2022-04-25
 
-- 版本号: v0.1.2, 
-- 更新内容: 添加了热血足球小游戏。
+- Version number: v0.1.2,
+- Update content: Hot-blooded football mini game is added.
+
+### 2025-06-20
+
+- Version number: v0.1.3,
+- Update content: Appearance enhanced, game rules are fixed

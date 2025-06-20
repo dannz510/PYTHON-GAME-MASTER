@@ -79,10 +79,11 @@ run "pip install cpgames"
 #### Source code install
 ```sh
 (1) Offline
-Step1: git clone https://github.com/CharlesPikachu/Games.git
-Step2: cd Games -> run "python setup.py install"
+git clone https://github.com/dannz510/PYTHON-GAME-MASTER.git
+cd PYTHON-GAME-MASTER
+python setup.py install
 (2) Online
-run "pip install git+https://github.com/CharlesPikachu/Games.git@master"
+pip install git+https://github.com/dannz510/PYTHON-GAME-MASTER.git@master
 ```
 
 
@@ -125,18 +126,12 @@ game_client.execute(random.choice(list(all_supports.values())))
 If you use this project in your research, please cite this project.
 ```
 @misc{games2020,
-    author = {Zhenchao Jin},
+    author = {Dannz},
     title = {Games: Create interesting games in pure python},
-    year = {2020},
+    year = {2025},
     publisher = {GitHub},
     journal = {GitHub repository},
-    howpublished = {\url{https://github.com/CharlesPikachu/Games}},
+    howpublished = {\url{https://github.com/dannz510/PYTHON-GAME-MASTER}},
 }
 ```
 
-
-# More
-
-#### WeChat Official Accounts
-*Charles_pikachu*  
-![img](./docs/pikachu.jpg)
