@@ -13,3 +13,8 @@ __email__ = 'mini51019158@gmail.com'
 '''license'''
 __license__ = 'Apache License 2.0'
 '''copyright'''
+<<<<<<< HEAD
+__copyright__ = 'Copyright 2025 - 2026 Dannz'
+=======
+__copyright__ = 'Copyright 2021-2025 Dannz'
+>>>>>>> 5e36de43a92a950fb6a5ac9c4fbb4ecb27ed4f0a
