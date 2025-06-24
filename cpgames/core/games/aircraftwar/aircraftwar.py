@@ -5,7 +5,6 @@ from ...utils import QuitGame
 from ..base import PygameBaseGame
 from .modules import Bullet, Ship, Asteroid, StartInterface, EndInterface
 
-
 '''
 Class: Config
 Description: Holds all configuration settings for the game.
