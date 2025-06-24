@@ -12,7 +12,6 @@
 
 Documents: http://cpgames.readthedocs.io/
 
-
 # Games
 ```
 Create interesting games in pure python.
